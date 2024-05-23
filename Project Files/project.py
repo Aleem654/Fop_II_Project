@@ -1,6 +1,6 @@
 #  RSS Feed Filter
 # Name: Ahmad Aleem Akhtar (458945)   
-# Collaborators: Syed Muhammad Ali Akbar (477723)  
+# Collaborators: NONE
 # Time:
 
 import feedparser
